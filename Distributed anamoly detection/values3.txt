@@ -1,0 +1,222 @@
+[12, 17, 36]: This is point 0
+[7, 36, 45]: This is point 1
+[45, 47, 15]: This is point 2
+[26, 48, 8]: This is point 3
+[50, 14, 9]: This is point 4
+[40, 5, 35]: This is point 5
+[20, 25, 30]: This is point 6
+[9, 28, 36]: This is point 7
+[1, 27, 20]: This is point 8
+[45, 33, 32]: This is point 9
+[16, 2, 12]: This is point 10
+[22, 15, 15]: This is point 11 (Cluster Head)
+[16, 44, 20]: This is point 12
+[42, 24, 11]: This is point 13
+[6, 49, 38]: This is point 14
+[47, 46, 30]: This is point 15
+[20, 21, 44]: This is point 16
+[18, 40, 46]: This is point 17
+[15, 48, 27]: This is point 18
+[49, 37, 18]: This is point 19
+[12, 12, 3]: This is point 20
+[39, 32, 32]: This is point 21
+[26, 47, 38]: This is point 22
+[50, 42, 45]: This is point 23
+[40, 2, 19]: This is point 24
+[18, 48, 33]: This is point 25
+[41, 39, 39]: This is point 26
+[31, 4, 42]: This is point 27
+[1, 22, 31]: This is point 28
+[13, 11, 38]: This is point 29
+[34, 30, 28]: This is point 30
+[8, 38, 36]: This is point 31
+[21, 36, 41]: This is point 32
+[26, 9, 25]: This is point 33
+[33, 34, 48]: This is point 34
+[42, 49, 34]: This is point 35
+[25, 44, 6]: This is point 36
+[19, 31, 43]: This is point 37
+[9, 16, 7]: This is point 38
+[2, 33, 13]: This is point 39
+[26, 33, 15]: This is point 40
+[22, 26, 27]: This is point 41
+[27, 29, 22]: This is point 42
+[28, 40, 42]: This is point 43
+[6, 14, 17]: This is point 44
+[27, 26, 20]: This is point 45
+[32, 23, 30]: This is point 46
+[9, 43, 22]: This is point 47
+[35, 3, 20]: This is point 48
+[21, 3, 38]: This is point 49
+[10, 19, 28]: This is point 50
+[19, 41, 48]: This is point 51
+[2, 4, 26]: This is point 52
+[6, 24, 29]: This is point 53
+[15, 8, 12]: This is point 54 (Cluster Head)
+[2, 12, 26]: This is point 55 (Cluster Head)
+[38, 6, 3]: This is point 56
+[34, 31, 15]: This is point 57
+[13, 34, 45]: This is point 58
+[34, 23, 21]: This is point 59 (Cluster Head)
+[16, 3, 31]: This is point 60
+[3, 20, 32]: This is point 61
+[11, 18, 49]: This is point 62
+[23, 4, 34]: This is point 63
+[50, 25, 9]: This is point 64
+[16, 1, 20]: This is point 65
+[43, 34, 20]: This is point 66
+[33, 37, 14]: This is point 67
+[47, 38, 8]: This is point 68
+[6, 29, 17]: This is point 69 (Cluster Head)
+[18, 23, 8]: This is point 70
+[9, 11, 46]: This is point 71
+[30, 1, 32]: This is point 72
+[38, 30, 36]: This is point 73 (Cluster Head)
+[15, 6, 4]: This is point 74
+[17, 31, 40]: This is point 75
+[8, 39, 1]: This is point 76
+[7, 35, 37]: This is point 77
+[3, 25, 34]: This is point 78
+[32, 48, 4]: This is point 79
+[16, 9, 18]: This is point 80
+[43, 14, 18]: This is point 81
+[22, 1, 36]: This is point 82
+[9, 29, 43]: This is point 83
+[29, 44, 4]: This is point 84
+[6, 25, 12]: This is point 85
+[10, 20, 16]: This is point 86
+[23, 39, 32]: This is point 87
+[22, 16, 7]: This is point 88
+[13, 40, 48]: This is point 89 (Cluster Head)
+[12, 23, 34]: This is point 90 (Cluster Head)
+[8, 26, 30]: This is point 91
+[50, 33, 12]: This is point 92
+[20, 22, 25]: This is point 93
+[5, 26, 46]: This is point 94
+[4, 31, 35]: This is point 95
+[23, 27, 49]: This is point 96
+[17, 6, 47]: This is point 97
+[3, 25, 7]: This is point 98
+[15, 28, 22]: This is point 99
+[12, 32, 39]: This is point 100
+[28, 8, 19]: This is point 101
+[19, 45, 28]: This is point 102 (Cluster Head)
+[18, 5, 35]: This is point 103 (Cluster Head)
+[10, 50, 31]: This is point 104
+[29, 16, 24]: This is point 105
+[4, 30, 50]: This is point 106
+[13, 36, 29]: This is point 107
+[23, 45, 17]: This is point 108
+[41, 39, 26]: This is point 109
+[20, 11, 44]: This is point 110
+[26, 7, 26]: This is point 111
+[35, 20, 41]: This is point 112
+[42, 34, 45]: This is point 113
+[14, 6, 5]: This is point 114
+[31, 3, 17]: This is point 115 (Cluster Head)
+[19, 15, 45]: This is point 116
+[36, 43, 39]: This is point 117 (Cluster Head)
+[22, 42, 35]: This is point 118
+[3, 11, 29]: This is point 119
+[2, 14, 8]: This is point 120
+[29, 1, 10]: This is point 121
+[6, 26, 9]: This is point 122
+[11, 31, 15]: This is point 123
+[49, 11, 31]: This is point 124
+[18, 32, 48]: This is point 125
+[48, 23, 9]: This is point 126
+[49, 6, 40]: This is point 127
+[29, 41, 48]: This is point 128
+[6, 30, 50]: This is point 129
+[31, 32, 29]: This is point 130
+[17, 37, 8]: This is point 131
+[12, 24, 46]: This is point 132 (Cluster Head)
+[39, 48, 34]: This is point 133
+[9, 26, 35]: This is point 134
+[7, 49, 47]: This is point 135
+[11, 24, 23]: This is point 136
+[28, 40, 14]: This is point 137
+[10, 20, 44]: This is point 138
+[48, 38, 3]: This is point 139
+[47, 20, 12]: This is point 140 (Cluster Head)
+[7, 31, 5]: This is point 141
+[45, 48, 50]: This is point 142
+[42, 19, 48]: This is point 143
+[37, 17, 3]: This is point 144
+[50, 13, 19]: This is point 145
+[10, 40, 18]: This is point 146
+[41, 29, 18]: This is point 147
+[31, 25, 21]: This is point 148
+[42, 32, 12]: This is point 149
+[22, 26, 17]: This is point 150
+[37, 43, 1]: This is point 151
+[36, 10, 33]: This is point 152
+[41, 27, 26]: This is point 153 (Cluster Head)
+[12, 16, 15]: This is point 154
+[24, 22, 36]: This is point 155
+[6, 49, 3]: This is point 156
+[13, 9, 16]: This is point 157
+[33, 3, 10]: This is point 158
+[5, 42, 40]: This is point 159
+[1, 43, 25]: This is point 160
+[18, 25, 11]: This is point 161 (Cluster Head)
+[8, 13, 17]: This is point 162
+[13, 42, 6]: This is point 163 (Cluster Head)
+[19, 40, 34]: This is point 164
+[29, 14, 17]: This is point 165
+[43, 27, 5]: This is point 166
+[40, 6, 35]: This is point 167 (Cluster Head)
+[44, 20, 22]: This is point 168
+[23, 26, 32]: This is point 169
+[27, 40, 22]: This is point 170
+[17, 40, 14]: This is point 171
+[1, 45, 50]: This is point 172
+[11, 18, 40]: This is point 173
+[39, 3, 38]: This is point 174
+[45, 50, 46]: This is point 175
+[34, 27, 33]: This is point 176
+[34, 3, 13]: This is point 177
+[45, 49, 46]: This is point 178
+[21, 46, 30]: This is point 179
+[15, 14, 35]: This is point 180
+[3, 20, 48]: This is point 181
+[8, 37, 5]: This is point 182
+[19, 40, 33]: This is point 183
+[8, 20, 8]: This is point 184 (Cluster Head)
+[23, 43, 29]: This is point 185
+[2, 45, 4]: This is point 186
+[19, 41, 23]: This is point 187
+[33, 13, 48]: This is point 188
+[38, 14, 19]: This is point 189
+[46, 47, 7]: This is point 190
+[43, 19, 46]: This is point 191
+[35, 18, 19]: This is point 192
+[37, 30, 35]: This is point 193
+[7, 40, 48]: This is point 194
+[8, 45, 13]: This is point 195
+[21, 26, 1]: This is point 196
+[28, 38, 26]: This is point 197
+[36, 48, 10]: This is point 198 (Cluster Head)
+[34, 13, 15]: This is point 199
+
+Monitors and Charges:
+[34, 23, 21]: [[35, 18, 19], [38, 14, 19]]
+[13, 40, 48]: [[7, 40, 48], [7, 36, 45]]
+[15, 8, 12]: [[13, 9, 16], [16, 9, 18]]
+[18, 25, 11]: [[21, 26, 1], [18, 23, 8]]
+[38, 30, 36]: [[37, 30, 35], [34, 27, 33]]
+[6, 29, 17]: [[1, 43, 25], [9, 43, 22]]
+[18, 5, 35]: [[15, 14, 35], [13, 11, 38]]
+[12, 24, 46]: [[3, 20, 48], [5, 26, 46]]
+[13, 42, 6]: [[8, 45, 13], [2, 45, 4]]
+[12, 23, 34]: [[23, 26, 32], [20, 25, 30]]
+[8, 20, 8]: [[9, 16, 7], [6, 26, 9]]
+[36, 43, 39]: [[45, 49, 46], [45, 50, 46]]
+[40, 6, 35]: [[33, 13, 48], [31, 4, 42]]
+[36, 48, 10]: [[32, 48, 4], [29, 44, 4]]
+[2, 12, 26]: [[8, 13, 17], [6, 14, 17]]
+[31, 3, 17]: [[34, 13, 15], [28, 8, 19]]
+[47, 20, 12]: [[44, 20, 22], [43, 14, 18]]
+[41, 27, 26]: [[34, 30, 28], [39, 32, 32]]
+[19, 45, 28]: [[28, 38, 26], [27, 40, 22]]
+[22, 15, 15]: [[22, 16, 7]]
